@@ -1,0 +1,12 @@
+#ejercicio #3
+
+#3.	Hacer un programa que convierta grados centígrados a grados Fahrenheit
+
+gc = float(input("Ingrese los grados centigrados que desea convertir: "))
+Fht = gc * 1.8 + 32
+
+
+#imprimir el resultado de la operacion
+
+print(f" El area del triangulo es: ",Fht)
+

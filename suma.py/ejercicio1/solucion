@@ -1,0 +1,13 @@
+#ejercicio #1
+
+#1.	De un triángulo se tiene la longitud de la base y la longitud de la altura. Determine el valor de su área. El área del triángulo se halla así: 
+#área ->(base*altura)/2
+# operacion
+
+base =float(input( " Ingrese la base: "))
+altura  =float(input( " Ingrese la altura: "))
+area = (base*altura)/2
+
+#imprimir el resultado de la operacion 
+
+print(f"El area del triangulo es {area}")
